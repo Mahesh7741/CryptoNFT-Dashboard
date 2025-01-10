@@ -8,8 +8,11 @@ https://github.com/user-attachments/assets/8e669cb7-53a6-4e63-b8ed-e82a086f7273
 
 
 # Images
+
+- Light Mode 💡
 ![Screenshot 2025-01-10 172404](https://github.com/user-attachments/assets/b6740741-0e79-4ef0-826d-629a01f6e89f)
 
+- Dark Mode 🌑
 ![Screenshot 2025-01-10 172414](https://github.com/user-attachments/assets/6cb38a1e-6622-4fcd-bdeb-c122f0425aa1)
 
 
