@@ -1,4 +1,4 @@
-# Crypto Price Tracker 🚀📉
+#                                                             Crypto Dashboard🚀📉
 
 Welcome to the Crypto Price Tracker project! This application tracks the prices of major cryptocurrencies such as **Bitcoin**, **Ethereum**, and **Polygon (MATIC)**, and provides real-time price updates, market cap information, and 24-hour price change percentages. It also calculates the standard deviation of price changes over the last 100 records.
 
