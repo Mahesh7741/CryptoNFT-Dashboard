@@ -15,7 +15,8 @@ https://github.com/user-attachments/assets/8e669cb7-53a6-4e63-b8ed-e82a086f7273
 - # Dark Mode 🌑
 ![Screenshot 2025-01-10 172414](https://github.com/user-attachments/assets/6cb38a1e-6622-4fcd-bdeb-c122f0425aa1)
 
-
+- # Database (MongoDB)
+![image](https://github.com/user-attachments/assets/d7b6a258-626c-4484-9f81-4b445a272fee)
 
 ## Features ✨
 - **Live Crypto Stats**: Track live prices, market cap, and 24-hour price changes.
